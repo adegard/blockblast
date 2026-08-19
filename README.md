@@ -11,6 +11,10 @@ A Block Blast puzzle game for Android, built in Kotlin with a custom `Canvas`-ba
 - **Game over** when none of the remaining pieces can be placed
 - Tray refreshes with 3 new pieces only after all 3 have been placed
 
+## Install
+
+Use apk in Release
+
 ## Building
 
 Requires Android SDK (platform 35), JDK 17+, and Kotlin.
