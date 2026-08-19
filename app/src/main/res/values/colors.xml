@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0F1216</color>
+    <color name="boardBg">#1A2028</color>
+    <color name="cellEmpty">#262E38</color>
+    <color name="cellStroke">#2E3844</color>
+    <color name="ic_launcher_background">#0F1216</color>
+</resources>
